@@ -9,7 +9,7 @@ I am Bogdan. I am interested in DevOps, SRE engineering. Currently working on pe
 - 🔭 I'm currently pursuing my Bachelor's at RANEPA.
 - 📝 Author of microblog with DevOps notes in Telegram.
 - 🌐 Searching for networking all over the world.
-- ✍️ Active member on [Habr]('https://habr.com')
+- ✍️ Active member on [Habr](https://habr.com/)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,go,python,ansible,terraform,bash,gcp,aws,jenkins,postgresql)](https://skillicons.dev)
