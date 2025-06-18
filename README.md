@@ -16,7 +16,7 @@ I am Bogdan. I am interested in DevOps, SRE engineering. Currently working on pe
 
 ## 📬 Get in Touch
 
-- Connect with me on [Discord](https://discordapp.com/users/570315971324280851/)
+- Connect with me on [Telegram](https://t.me/dontbesoseriouspls)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
